@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="A simple CRUD page with Bootstrap, PHP and MySQL made by Feryael Justice." />
+    <meta name="description" content="A simple CRUD page with Bootstrap and Fontawesome, PHP and MySQL made by Feryael Justice." />
     <meta name="keywords" content="feryael, justice, feryaeljustice, crud, php, mysql" />
     <meta name="author" content="Feryael Justice" />
     <meta name="copyright" content="FeryaelJustice" />
